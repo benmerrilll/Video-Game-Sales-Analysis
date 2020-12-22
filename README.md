@@ -1,5 +1,5 @@
 # Video-Game-Sales-Analysis
-This project is a brief look at the Plotly library through some basic visualizations. 
+This project takes a look at the Plotly and some visualizations available in the library. 
 
 # Visualization Tool - Plotly
 Plotly (https://plotly.com/) is a front end data visualization library available in Python or R. It is a free, open-source library that makes publication quality data visualizations that are often interactive. This notebook highlights 3 types of common plotly visualizations: Time Series, Bar Chart, and Heat Maps. To install Plotly, 
